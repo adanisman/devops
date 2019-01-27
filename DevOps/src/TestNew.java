@@ -6,9 +6,13 @@ public class TestNew {
 		int local=1;
 		
 
+
 		String name ="Feature 1";
 
 		String name2 ="Feature 2";
+
+ 
+		String feature1 ="denemexxx";
 
 	}
 
