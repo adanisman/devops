@@ -6,6 +6,7 @@ public class TestNew {
 		int local=1;
 		
 		String name ="Feature 1";
+		String feature1 ="denemexxx";
 	}
 
 }
