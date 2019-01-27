@@ -14,7 +14,7 @@ public class TestNew {
  
 		String feature1 ="denemexxx";
 		for (int i=1;i <=10; i++) {
-			System.out.println("");
+			System.out.println("Merhaba " + i);
 		}
 
 	}
